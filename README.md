@@ -1,5 +1,5 @@
-## Association Rule Mining: Market Basket Analysis
-# Overview
+##  Association Rule Mining: Market Basket Analysis
+## Overview
 This project focuses on Association Rule Mining, using the Apriori algorithm to analyze customer purchasing behavior. The objective is to identify interesting relationships between products purchased together, providing actionable insights for decision-making.
 
 ## Table of Contents
